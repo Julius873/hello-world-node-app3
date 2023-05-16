@@ -1,0 +1,18 @@
+{
+  "name": "hello-world-node-app3",
+  "version": "1.0.0",
+  "description": "The application is for our simple website \"hello world\" displayed on the landing page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Julius873/hello-world-node-app3.git)"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
